@@ -25,7 +25,7 @@ Welcome to my machine learning portfolio! This repository showcases my hands-on 
 #### Part 2: Regression  
 - **Objective**: Predict healthcare insurance costs in the US using demographic and health-related data.  
 - **Dataset**: [Medical Cost Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance).  
-- **Notebook**: [parkinsons_classification_and_medical_regression.ipynb](./parkinsons_classification_and_medical_regression.ipynb)  
+- **Notebook**: [parkinsons_classification_and_medical_regression.ipynb](./project02_parkinsons_classification_and_medical_regression.ipynb)  
 
 ---
 
