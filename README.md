@@ -12,7 +12,7 @@ Welcome to my machine learning portfolio! This repository showcases my hands-on 
   - Explored eight feature selection methods and evaluated their impact on model performance.  
   - Developed a Random Forest classifier with Mutual Information and Bootstrapping as the best feature selection approaches.  
 - **Dataset**: [DARWIN Handwriting Dataset](https://doi.org/10.1016/j.procs.2018.10.141).  
-- **Notebook**: [feature_selection_AD_DARWIN.ipynb](./feature_selection_AD_DARWIN.ipynb)  
+- **Notebook**: [feature_selection_AD_DARWIN.ipynb](./project01_feature_selection_AD_DARWIN.ipynb)  
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to my machine learning portfolio! This repository showcases my hands-on 
 #### Part 1: Binary Classification  
 - **Objective**: Discriminate between healthy individuals and those with Parkinson’s Disease using features from voice recordings.  
 - **Dataset**: [Parkinson Disease Detection Dataset](https://www.kaggle.com/datasets/jainaru/parkinson-disease-detection/data).  
-- **Notebook**: [parkinsons_classification_and_medical_regression.ipynb](./parkinsons_classification_and_medical_regression.ipynb)  
+- **Notebook**: [parkinsons_classification_and_medical_regression.ipynb](./project02_parkinsons_classification_and_medical_regression.ipynb)  
 
 #### Part 2: Regression  
 - **Objective**: Predict healthcare insurance costs in the US using demographic and health-related data.  
